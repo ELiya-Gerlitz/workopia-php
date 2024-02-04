@@ -1,0 +1,11 @@
+to start the server hit in the terminal the following command: 'php -S localhost:8000 -t public/'
+and then the app should run in your browser at localhost:8000
+
+
+    php: This is the PHP interpreter command. It is used to execute PHP scripts.
+
+    -S localhost:8000: This option starts the built-in web server. -S stands for "server,"
+     and localhost:8000 specifies that the server should listen on the localhost (127.0.0.1) address and port 8000.
+
+    -t public/: This option sets the document root for the server. -t stands for "document root,"
+     and public/ is the directory that will be treated as the root of the web server.

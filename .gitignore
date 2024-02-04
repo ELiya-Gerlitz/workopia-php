@@ -3,5 +3,5 @@
 /config/db.php
 .env
 .vscode
-# thw following file is only for MacOS:
+# the following file is for MacOS:
 .DS_Store 
